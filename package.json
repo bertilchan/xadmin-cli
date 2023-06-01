@@ -1,0 +1,34 @@
+{
+  "name": "xadmin-cli",
+  "version": "1.0.0",
+  "description": "快速生成admin模板的脚手架工具",
+  "main": "index.js",
+  "bin": {
+    "xa": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "keywords": [
+    "xadmin-cli",
+    "xa",
+    "scaffold",
+    "脚手架"
+  ],
+  "author": "Bertil Chan",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "commander": "^7.2.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.0",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.0.0",
+    "ora": "^5.4.0"
+  }
+}
