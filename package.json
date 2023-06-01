@@ -1,7 +1,7 @@
 {
   "name": "xadmin-cli",
-  "version": "1.0.0",
-  "description": "快速生成admin模板的脚手架工具",
+  "version": "1.0.1",
+  "description": "A scaffolding tool for quickly generating admin templates",
   "main": "index.js",
   "bin": {
     "xa": "./bin/cli.js"
