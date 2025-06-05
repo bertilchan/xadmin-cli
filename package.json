@@ -1,6 +1,6 @@
 {
   "name": "xadmin-cli",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A scaffolding tool for quickly generating admin templates",
   "main": "index.js",
   "bin": {

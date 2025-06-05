@@ -4,10 +4,12 @@
 
 参考的主流模板如下：
 
-* [Vue3 + TypeScript + Ant Design](https://github.com/vbenjs/vue-vben-admin)
-* [Vue3 + TypeScript + Element Plus](https://github.com/lin-xin/vue-manage-system)
-* [Vue2 + Element UI](https://github.com/PanJiaChen/vue-element-admin)
-* [React18 + TypeScript + Ant Design](https://github.com/ant-design/ant-design-pro)
+* [Vue3 + TypeScript + Vite + Ant Design](https://github.com/vbenjs/vue-vben-admin)
+* [Vue3 + TypeScript + Vite + Element Plus](https://github.com/lin-xin/vue-manage-system)
+* [Vue2 + JavaScript + Vue-Cli + Element UI](https://github.com/PanJiaChen/vue-element-admin)
+* [React18 + TypeScript + Vite + Antd + Zustand（simple）](https://github.com/bertilchan/template-admin-react-simple)
+* [React18 + TypeScript + Vite + Antd + Zustand](https://github.com/bertilchan/template-admin-react)
+* [React18 + TypeScript + Umi + Antd + Dva](https://github.com/ant-design/ant-design-pro)
 
 ## ✨ 特点
 
@@ -22,7 +24,7 @@
 ```shell
 $ npm install
 
-$ node ./bin/cli create testProject
+$ node ./bin/cli create admin-demo
 
 ```
 ## 安装
